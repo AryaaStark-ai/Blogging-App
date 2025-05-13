@@ -33,10 +33,7 @@ src/ │ ├── components/ │ ├── Navbar.jsx │ ├── BlogCard.j
 4. Enable **Firebase Storage**.
 5. Replace the `firebaseConfig` in `firebase.js` with your project's config.
 
-## 🖼️ Demo
 
-🎥 A demo video is available showing the full functionality of Blogify.  
-*(Upload it to YouTube or Drive and add the link here)*
 
 ## 🧪 Run Locally
 
@@ -66,11 +63,12 @@ Firebase Hosting
 Contributions are welcome! Feel free to fork the repository, make your changes, and open a pull request.
 
 📧 Contact
-Created with ❤️ by Sanket
+Created with ❤️ by Aryaa Dhole
 
-Email:khedkarsanket000@gmail.com
+Email: dholeAryaa@gmail.com 
 
-GitHub: @sanki476
+GitHub: @AryaaStark-ai
+
 
 Thanks for checking out Blogify! Don't forget to ⭐ the repo if you liked it.
 
